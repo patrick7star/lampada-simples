@@ -155,9 +155,6 @@ fn main() {
    }
    // termina "interface-gráfica".   
    endwin();
-   println!("estado da ativação do mouse: {}", resultado);
-
-   println!("argumentos passados:{:#?}",args());
 }
 
 
